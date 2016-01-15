@@ -88,6 +88,9 @@ body {
 
 .time-total {
   font-size: .7rem;
+  position: absolute;
+  top: 2.4em;
+  right: 0.7em;
 }
 
 .controls {
