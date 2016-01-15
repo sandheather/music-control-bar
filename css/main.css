@@ -115,5 +115,7 @@ right: 0.2em;
 }
 
 .control-heart {
-
+position: absolute;
+top: 0.2em;
+right: 1em;
 }
